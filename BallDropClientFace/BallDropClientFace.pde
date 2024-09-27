@@ -7,7 +7,7 @@ OpenCV opencv;
 Capture cam;
 Client myClient;
 String data;
-String ipAddress = "10.18.165.133"; //127.0.0.1
+String ipAddress = "127.0.0.1"; //127.0.0.1
  
 void setup() {
   size(640, 480);
